@@ -14,9 +14,13 @@ Calories: 140, Carbohydrates: 3g, Protein: 8g, Fat: 8g, Saturated Fat: 5g, Chole
 So many things make great dippers for cheese fondue! Maybe that’s why it’s been so popular for decades!
 
 ->Chips: tortilla chips, pretzels or pretzel sticks
+
 ->Bread: chunks of French or sourdough bread, soft breadsticks, garlic crostini rounds
+
 ->Vegetables: celery sticks, broccoli florets, cauliflower florets, zucchini rounds, bell pepper strips, whole mushrooms, whole (cooked) baby red potatoes
+
 ->Fruit: cubed apples, seedless grapes, dried fruit, pineapple slices
+
 ->Meat: meatballs, grilled steak, chicken, shrimp
 
 *PREP TIME* : 15 minutes
